@@ -1,3 +1,3 @@
-# Project de.rieckpil.blog/pact-junit-jupiter-parameter-resolvement-issue
+# Verify the failure
 
-Build the project and run all tests with `./mvnw package` or `mvnw.cmd package` for Windows.
+Check out the source code and run all tests with `./mvnw test`.
